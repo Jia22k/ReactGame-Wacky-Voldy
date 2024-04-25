@@ -1,5 +1,5 @@
 # ReactGame-Wacky-Voldy
-Play the game here - https://react-game-wacky-voldy.vercel.app/
+[Play the game here - https://react-game-wacky-voldy.vercel.app/](https://react-game-wacky-voldy.vercel.app/)
 <br />
 
 # Whack Voldy
@@ -29,4 +29,4 @@ Welcome to "Whack Voldy," a React-based interactive game inspired by the magical
 
 
 
-<br /> Created with CodeSandbox <br /> 
+<br /> [Created with CodeSandbox](https://codesandbox.io/p/sandbox/wacky-voldy-prog3-lf7wdl?file=%2Fsrc%2FApp.js) <br /> 
