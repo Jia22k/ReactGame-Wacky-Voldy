@@ -16,7 +16,7 @@ Welcome to "Whack Voldy," a React-based interactive game inspired by the magical
 - [Material-UI](https://mui.com/)
 - Custom CSS
 - Love for Harry Potter
-
+##
  **Game Rules**
  <br />
  
@@ -26,7 +26,7 @@ Welcome to "Whack Voldy," a React-based interactive game inspired by the magical
 
 
 
-
+##
 
 
 <br /> [Created with CodeSandbox](https://codesandbox.io/p/sandbox/wacky-voldy-prog3-lf7wdl?file=%2Fsrc%2FApp.js) <br /> 
